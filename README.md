@@ -1,19 +1,23 @@
-# 👋 Hi, I'm Naman Jain
+# 👋 Hi, I'm Naman Jain  
 
-🎓 Computer Science student at MNIT Jaipur  
-💻 AI/ML | Full Stack Development 
-🧠 800+ coding problems solved | Gen-AI & Google Cybersecurity Certified  
-🚀 Top 4.47% LeetCoder | Ex–Indian Air Force Intern 
-💡 Leadership — Finance & Marketing Secretary, CSE Club @ MNIT
-🥇 Amazon HackOn Season 5 — Top 1% (Prototype Round)
+🎓 Computer Science student at **MNIT Jaipur**  
+💻 **AI/ML | Full Stack Development**  
+🧠 **800+ coding problems solved** | **Gen-AI & Google Cybersecurity Certified**  
+🚀 **Top 4.47% LeetCoder** | **Ex–Indian Air Force Intern**  
+💡 **Leadership — Finance & Marketing Secretary, CSE Club @ MNIT Jaipur**  
+🥇 **Amazon HackOn Season 5 — Top 1% (Prototype Round)**  
+
 ---
 
 💼 **Previously**  
 - 🛰️ **Indian Air Force (SDE Intern, 2025)** — Led a team to design a missile trajectory simulation system with 3D visualization and flight modeling.  
 - 🧑‍💻 **C-DAC Noida (Ethical Hacking Intern)** — Practiced penetration testing, reconnaissance, and vulnerability assessment using industry-standard tools.  
 
-## 🧰 Tech Stack
-[C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+---
+
+## 🧰 Tech Stack  
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -25,22 +29,33 @@
 
 ---
 
-### 🔍 Featured Projects
+## 🔍 Featured Projects  
 
-- **[Bone Fracture Detection (Deep Learning)](https://github.com/namanjain2302/Bone-Fracture-detection)**  
-  Automated bone fracture detection from X-ray images using DenseNet-121, data augmentation, advanced preprocessing, and a Gradio UI for real-time predictions.
+- 🩻 **[Bone Fracture Detection (Deep Learning)](https://github.com/namanjain2302/Bone-Fracture-detection)**  
+  Automated bone fracture detection from X-ray images using **DenseNet-121**, data augmentation, advanced preprocessing, and a **Gradio UI** for real-time predictions.
 
-- **[Canteen Management System](https://github.com/namanjain2302/canteen-project)**  
-  A full-stack system to manage canteen operations, menu, ordering, and billing (frontend + backend). *[Update this description with your exact tech stack]*
+- 🏫 **[Canteen Management System](https://github.com/namanjain2302/canteen-project)**  
+  A **React + Node.js + MongoDB** full-stack system to manage canteen operations, menu, ordering, and billing efficiently. *(Dockerized for easy deployment.)*
 
-- **[EcoSphere AI – Sustainable Shopping Platform](https://github.com/namanjain2302/ecosphere-ai)**  
-  A gamified e-commerce app that rates products by sustainability metrics (carbon footprint, supply chain, packaging), rewards eco habits, and gives personalized recommendations.
-
----
+- 🌍 **[EcoSphere AI – Sustainable Shopping Platform](https://github.com/namanjain2302/ecosphere-ai)**  
+  A gamified **AI-powered e-commerce app** that rates products by sustainability metrics (carbon footprint, supply chain, packaging), rewards eco habits, and gives personalized recommendations.
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/namanjain2302)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/namanjain2302)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://namanjain2302.github.io/)
+## 📊 GitHub Stats  
+
+![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=namanjain2302&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namanjain2302&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=namanjain2302&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+## 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/namanjain2302)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/namanjain2302)  
+![Profile views](https://komarev.com/ghpvc/?username=namanjain2302&color=brightgreen)
+
+---
+
+> “Hack the planet 🌍, build the future 🚀”
