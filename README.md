@@ -4,7 +4,7 @@
 💻 **AI/ML | Full Stack Development**  
 🧠 **800+ coding problems solved** | **Gen-AI & Google Cybersecurity Certified**  
 🚀 **Top 4.47% LeetCoder** | **Ex–Indian Air Force Intern**  
-💡 **Leadership — Finance & Marketing Secretary, CSE Club @ MNIT Jaipur**  
+💡 **Leadership — EX-Finance & Marketing Secretary, CSE Club @ MNIT Jaipur**  
 🥇 **Amazon HackOn Season 5 — Top 1% (Prototype Round)**  
 
 ---
@@ -42,20 +42,33 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📚 Learning & Interests  
 
-![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=namanjain2302&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namanjain2302&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=namanjain2302&theme=tokyonight)](https://git.io/streak-stats)
+- 🧠 **Machine Learning & AI** — Deep Neural Networks, Transfer Learning, Transformers  
+- ☁️ **Deployment & Cloud** — Docker, CI/CD, AWS, Hugging Face Spaces    
+- ⚙️ **System Design & Backend Optimization**  
+- 🧩 **Computer Vision** — Medical Image Processing & AI-driven Diagnostics  
+
+---
+
+## 🎯 Goals & Vision  
+
+💻 To become a **Software Developer** and build impactful, high-quality products in the tech industry.
+🌟 To build **AI systems** that enhance human decision-making while maintaining **privacy and security**.  
+🚀 To contribute to **open-source projects** in AI,  Full-Stack Engineering and Cybersecurity.  
+💬 To share **technical insights and research** through blogs, talks, and collaborative projects.  
+🌐 To merge **AI & ethical hacking** into intelligent, secure, and sustainable solutions.  
+  
 
 ---
 
 ## 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/namanjain2302)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/namanjain2302)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/namanjain2302) 
 ![Profile views](https://komarev.com/ghpvc/?username=namanjain2302&color=brightgreen)
 
 ---
 
-> “Hack the planet 🌍, build the future 🚀”
+> “Learning endlessly, building fearlessly, and aiming for excellence 💻”
+
